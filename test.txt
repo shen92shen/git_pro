@@ -1,3 +1,5 @@
 this is test for the git add and commit
 add a new branch
+<<<<<<< HEAD
 in master ,this is for testing conflict
+
