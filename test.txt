@@ -2,4 +2,4 @@ this is test for the git add and commit
 add a new branch
 <<<<<<< HEAD
 in master ,this is for testing conflict
-
+this is for the fixed bug and test for the other info
