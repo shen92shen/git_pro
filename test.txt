@@ -3,3 +3,4 @@ add a new branch
 <<<<<<< HEAD
 in master ,this is for testing conflict
 this is for the fixed bug and test for the other info
+this is for the test :git stash
