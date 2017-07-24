@@ -1,0 +1,5 @@
+Oracle 海量拷贝数据利用到的技术：
+datapump
+sql*loader
+database repo
+transport database namespace
